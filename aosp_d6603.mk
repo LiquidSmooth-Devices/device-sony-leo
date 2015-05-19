@@ -67,9 +67,8 @@ PRODUCT_COPY_FILES += \
     device/sony/leo/rootdir/system/etc/tfa98xx/VoiceCallEarpice_top.preset:/system/etc/tfa98xx/VoiceCallEarpice_top.preset \
     device/sony/leo/rootdir/system/etc/tfa98xx/VoiceCallEarpice_top.eq:/system/etc/tfa98xx/VoiceCallEarpice_top.eq
 
-PRODUCT_NAME := aosp_d6603
 PRODUCT_DEVICE := leo
-PRODUCT_MODEL := Xperia Z3 (AOSP)
+PRODUCT_MODEL := Xperia Z3
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 
